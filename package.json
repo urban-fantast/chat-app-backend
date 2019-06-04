@@ -1,0 +1,20 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "A real time chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: No test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "real-time-chat-app"
+  },
+  "author": "Sreekanth Sreekumar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
